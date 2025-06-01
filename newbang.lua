@@ -22,7 +22,7 @@ local function showControls()
 	textLabel.TextColor3 = Color3.new(1, 1, 1)
 	textLabel.TextScaled = true
 	textLabel.Font = Enum.Font.GothamBold
-	textLabel.Text = "Type an ! and then your specified target's username to begin!\nType !stop to stop!"
+	textLabel.Text = "Type a ! and then your specified target's username to begin!\nType !stop to stop!"
 	textLabel.TextWrapped = true
 	textLabel.Parent = screenGui
 
